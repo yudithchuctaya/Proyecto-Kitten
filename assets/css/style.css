@@ -27,8 +27,8 @@ body{
     text-align: center;
     font-size: 100px;
      color:#0C1668;
-     min-width: 1503px;
-     max-width: 1600px;
+     min-width: 1200px;
+     max-width: 1400px;
      color: white;
 }
 .col-6{
@@ -39,7 +39,7 @@ width: 100%;
     color:white;
 }
 
-@media screen and (min-width: 1000px) and (max-width: 1504px){
+@media screen and (min-width: 1000px) and (max-width: 1200px){
         [class*="col-"]{
             width: 100%;
         }
